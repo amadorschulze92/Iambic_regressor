@@ -1,0 +1,82 @@
+,sonnet_index,syllables,s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,word_list,sonnet_num,author,polarity,subjectivity
+0,0,9,stress,stress,stress,stress,unstress,stress,stress,stress,stress,missing,missing,missing,"['One', 'of', 'my', 'wishes', 'is', 'that', 'those', 'dark', 'trees']",1,Frost,-0.15,0.4
+1,1,11,stress,stress,unstress,stress,stress,stress,unstress,stress,stress,stress,missing,missing,"['So', 'old', 'and', 'firm', 'they', 'scarcely', 'show', 'the', 'breeze']",1,Frost,-0.05,0.3
+2,2,10,unstress,stress,stress,missing,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['Were', 'not', 'as', 'twere', 'the', 'merest', 'mask', 'of', 'gloom']",1,Frost,-0.133333333333,0.133333333333
+3,3,10,stress,stress,unstress,stress,stress,unstress,unstress,stress,unstress,stress,missing,missing,"['But', 'stretched', 'away', 'unto', 'the', 'edge', 'of', 'doom']",1,Frost,-0.05,0.0
+4,4,10,stress,stress,stress,stress,unstress,stress,stress,stress,stress,stress,missing,missing,"['I', 'should', 'not', 'be', 'withheld', 'but', 'that', 'some', 'day']",1,Frost,0.0,0.0
+5,5,10,unstress,stress,stress,stress,unstress,stress,stress,stress,unstress,stress,missing,missing,"['Into', 'their', 'vastness', 'I', 'should', 'steal', 'away']",1,Frost,0.0,0.0
+6,6,10,stress,unstress,unstress,stress,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['Fearless', 'of', 'ever', 'finding', 'open', 'land']",1,Frost,0.0,0.5
+7,7,10,unstress,stress,stress,unstress,stress,stress,stress,unstress,stress,missing,missing,missing,"['Or', 'highway', 'where', 'the', 'slow', 'wheel', 'pours', 'the', 'sand']",1,Frost,-0.3,0.4
+8,8,10,stress,stress,stress,stress,stress,stress,stress,missing,stress,stress,missing,missing,"['I', 'do', 'not', 'see', 'why', 'I', 'should', 'eer', 'turn', 'back']",1,Frost,0.0,0.0
+9,9,10,unstress,stress,stress,stress,stress,stress,unstress,stress,stress,stress,missing,missing,"['Or', 'those', 'should', 'not', 'set', 'forth', 'upon', 'my', 'track']",1,Frost,0.0,0.0
+10,10,10,unstress,stress,unstress,stress,stress,stress,stress,stress,stress,missing,missing,missing,"['To', 'overtake', 'me', 'who', 'should', 'miss', 'me', 'here']",1,Frost,0.0,0.0
+11,11,10,unstress,stress,unstress,stress,unstress,stress,stress,stress,unstress,stress,missing,missing,"['And', 'long', 'to', 'know', 'if', 'still', 'I', 'held', 'them', 'dear']",1,Frost,-0.05,0.4
+12,12,10,stress,stress,stress,stress,stress,stress,unstress,stress,stress,stress,missing,missing,"['They', 'would', 'not', 'find', 'me', 'changed', 'from', 'him', 'they', 'knew']",1,Frost,0.0,0.0
+13,13,9,stress,unstress,stress,stress,unstress,stress,stress,stress,unstress,missing,missing,missing,"['Only', 'more', 'sure', 'of', 'all', 'I', 'thought', 'was', 'true']",1,Frost,0.3375,0.759722222222
+14,14,10,stress,stress,unstress,stress,unstress,stress,unstress,stress,stress,stress,missing,missing,"['I', 'had', 'withdrawn', 'in', 'forest', 'and', 'my', 'song']",2,Frost,0.0,0.0
+15,15,10,unstress,stress,unstress,stress,unstress,stress,unstress,stress,missing,missing,missing,missing,"['Was', 'swallowed', 'up', 'in', 'leaves', 'that', 'blew', 'alway']",2,Frost,0.0,0.0
+16,16,10,unstress,stress,unstress,stress,unstress,stress,stress,stress,stress,stress,missing,missing,"['And', 'to', 'the', 'forest', 'edge', 'you', 'came', 'one', 'day']",2,Frost,0.0,0.0
+17,17,10,missing,stress,stress,missing,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['(This', 'was', 'my', 'dream)', 'and', 'looked', 'and', 'pondered', 'long']",2,Frost,-0.05,0.4
+18,18,10,stress,stress,stress,stress,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['But', 'did', 'not', 'enter', 'though', 'the', 'wish', 'was', 'strong']",2,Frost,0.433333333333,0.733333333333
+19,19,10,stress,stress,stress,stress,unstress,stress,stress,stress,stress,stress,missing,missing,"['You', 'shook', 'your', 'pensive', 'head', 'as', 'who', 'should', 'say']",2,Frost,0.0,0.0
+20,20,10,stress,stress,missing,missing,stress,stress,unstress,stress,stress,missing,missing,missing,"['I', 'dare', 'nottoo', 'far', 'in', 'his', 'footsteps', 'stray']",2,Frost,0.1,1.0
+21,21,10,stress,stress,stress,stress,stress,stress,unstress,stress,unstress,stress,missing,missing,"['He', 'must', 'seek', 'me', 'would', 'he', 'undo', 'the', 'wrong']",2,Frost,-0.5,0.9
+22,22,10,stress,stress,stress,stress,stress,stress,unstress,stress,unstress,stress,missing,missing,"['Not', 'far', 'but', 'near', 'I', 'stood', 'and', 'saw', 'it', 'all']",2,Frost,0.025,0.7
+23,23,11,unstress,stress,stress,stress,unstress,stress,stress,stress,missing,missing,missing,missing,"['Behind', 'low', 'boughs', 'the', 'trees', 'let', 'down', 'outside;']",2,Frost,-0.138888888889,0.334722222222
+24,24,10,unstress,stress,stress,stress,unstress,stress,stress,stress,unstress,stress,missing,missing,"['And', 'the', 'sweet', 'pang', 'it', 'cost', 'me', 'not', 'to', 'call']",2,Frost,0.35,0.65
+25,25,10,unstress,stress,stress,stress,stress,stress,unstress,stress,unstress,stress,missing,missing,"['And', 'tell', 'you', 'that', 'I', 'saw', 'does', 'still', 'abide']",2,Frost,0.0,0.0
+26,26,9,stress,stress,stress,stress,unstress,stress,stress,stress,missing,missing,missing,missing,"['But', 'tis', 'not', 'true', 'that', 'thus', 'I', 'dwelt', 'aloof']",2,Frost,-0.175,0.65
+27,27,10,unstress,stress,stress,stress,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['For', 'the', 'wood', 'wakes', 'and', 'you', 'are', 'here', 'for', 'proof']",2,Frost,0.0,0.0
+28,28,10,unstress,stress,unstress,stress,stress,stress,unstress,stress,stress,stress,missing,missing,"['If', 'tired', 'of', 'trees', 'I', 'seek', 'again', 'mankind']",3,Frost,-0.4,0.7
+29,29,9,stress,stress,stress,stress,unstress,missing,stress,stress,stress,missing,missing,missing,"['Well', 'I', 'know', 'where', 'to', 'hie', 'mein', 'the', 'dawn']",3,Frost,0.0,0.0
+30,30,10,unstress,stress,stress,stress,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['To', 'a', 'slope', 'where', 'the', 'cattle', 'keep', 'the', 'lawn']",3,Frost,0.0,0.0
+31,31,10,stress,unstress,stress,stress,unstress,stress,unstress,unstress,unstress,stress,missing,missing,"['There', 'amid', 'lolling', 'juniper', 'reclined']",3,Frost,0.0,0.0
+32,32,10,stress,unstress,stress,stress,stress,unstress,stress,unstress,stress,missing,missing,missing,"['Myself', 'unseen', 'I', 'see', 'in', 'white', 'defined']",3,Frost,0.0,0.0
+33,33,10,stress,stress,unstress,stress,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['Far', 'off', 'the', 'homes', 'of', 'men', 'and', 'farther', 'still']",3,Frost,0.1,1.0
+34,34,10,unstress,stress,unstress,stress,stress,stress,unstress,stress,unstress,stress,missing,missing,"['The', 'graves', 'of', 'men', 'on', 'an', 'opposing', 'hill']",3,Frost,0.0,0.0
+35,35,10,stress,unstress,unstress,stress,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['Living', 'or', 'dead', 'whichever', 'are', 'to', 'mind']",3,Frost,-0.2,0.4
+36,36,10,unstress,stress,stress,stress,stress,stress,stress,stress,unstress,stress,missing,missing,"['And', 'if', 'by', 'noon', 'I', 'have', 'too', 'much', 'of', 'these']",3,Frost,0.2,0.2
+37,37,10,stress,stress,stress,stress,stress,stress,stress,stress,unstress,stress,missing,missing,"['I', 'have', 'but', 'to', 'turn', 'on', 'my', 'arm', 'and', 'lo']",3,Frost,0.0,0.0
+38,39,9,stress,stress,unstress,stress,unstress,missing,stress,stress,stress,missing,missing,missing,"['My', 'breathing', 'shakes', 'the', 'bluet', 'like', 'a', 'breeze']",3,Frost,0.0,0.0
+39,40,9,stress,stress,unstress,stress,stress,stress,unstress,missing,stress,missing,missing,missing,"['I', 'smell', 'the', 'earth', 'I', 'smell', 'the', 'bruisd', 'plant']",3,Frost,0.0,0.0
+40,41,10,stress,stress,unstress,stress,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['I', 'look', 'into', 'the', 'crater', 'of', 'the', 'ant']",3,Frost,0.0,0.0
+41,42,12,stress,stress,stress,unstress,unstress,stress,unstress,stress,unstress,stress,stress,stress,"['There', 'was', 'never', 'a', 'sound', 'beside', 'the', 'wood', 'but', 'one']",4,Frost,-0.2,0.4
+42,43,12,unstress,stress,unstress,stress,stress,stress,stress,unstress,unstress,stress,unstress,stress,"['And', 'that', 'was', 'my', 'long', 'scythe', 'whispering', 'to', 'the', 'ground']",4,Frost,-0.05,0.4
+43,44,12,stress,stress,unstress,stress,stress,unstress,stress,stress,stress,stress,missing,missing,"['What', 'was', 'it', 'it', 'whispered', 'I', 'knew', 'not', 'well', 'myself;']",4,Frost,0.0,0.0
+44,46,11,stress,unstress,unstress,stress,unstress,stress,stress,stress,stress,stress,missing,missing,"['Something', 'perhaps', 'about', 'the', 'lack', 'of', 'sound']",4,Frost,0.4,0.4
+45,47,11,unstress,stress,unstress,stress,unstress,stress,unstress,stress,unstress,stress,stress,missing,"['And', 'that', 'was', 'why', 'it', 'whispered', 'and', 'did', 'not', 'speak']",4,Frost,0.0,0.0
+46,48,11,unstress,stress,stress,stress,unstress,stress,stress,stress,stress,unstress,stress,missing,"['It', 'was', 'no', 'dream', 'of', 'the', 'gift', 'of', 'idle', 'hours']",4,Frost,0.0,0.0
+47,49,11,unstress,stress,unstress,stress,stress,stress,stress,stress,stress,stress,stress,missing,"['Or', 'easy', 'gold', 'at', 'the', 'hand', 'of', 'fay', 'or', 'elf']",4,Frost,0.433333333333,0.833333333333
+48,50,12,stress,unstress,stress,unstress,stress,stress,stress,stress,stress,stress,stress,missing,"['Anything', 'more', 'than', 'the', 'truth', 'would', 'have', 'seemed', 'too', 'weak']",4,Frost,0.0625,0.5625
+49,51,12,unstress,stress,stress,unstress,stress,stress,stress,stress,missing,missing,unstress,stress,"['To', 'the', 'earnest', 'love', 'that', 'laid', 'the', 'swale', 'in', 'rows']",4,Frost,0.5,0.6
+50,52,11,stress,unstress,stress,missing,missing,missing,missing,stress,unstress,stress,unstress,missing,"['Not', 'without', 'feeblepointed', 'spikes', 'of', 'flowers']",4,Frost,0.0,0.0
+51,53,11,missing,missing,missing,missing,missing,stress,stress,stress,stress,stress,stress,missing,"['(Pale', 'orchises)', 'and', 'scared', 'a', 'bright', 'green', 'snake']",4,Frost,0.0966666666667,0.426666666667
+52,54,11,unstress,stress,unstress,stress,stress,unstress,stress,stress,stress,unstress,stress,missing,"['The', 'fact', 'is', 'the', 'sweetest', 'dream', 'that', 'labor', 'knows']",4,Frost,0.0,0.0
+53,55,11,stress,stress,stress,stress,unstress,stress,stress,stress,stress,stress,stress,missing,"['My', 'long', 'scythe', 'whispered', 'and', 'left', 'the', 'hay', 'to', 'make']",4,Frost,-0.025,0.2
+54,56,10,stress,stress,unstress,stress,unstress,stress,unstress,unstress,stress,missing,missing,missing,"['There', 'is', 'a', 'singer', 'everyone', 'has', 'heard']",5,Frost,0.0,0.0
+55,57,10,stress,stress,stress,stress,unstress,stress,unstress,missing,missing,stress,missing,missing,"['Loud', 'a', 'midsummer', 'and', 'a', 'midwood', 'bird']",5,Frost,0.1,0.8
+56,58,9,stress,stress,unstress,stress,unstress,stress,stress,stress,missing,missing,missing,missing,"['Who', 'makes', 'the', 'solid', 'tree', 'trunks', 'sound', 'again']",5,Frost,0.2,0.25
+57,59,11,stress,stress,unstress,stress,unstress,stress,unstress,stress,unstress,stress,unstress,missing,"['He', 'says', 'that', 'leaves', 'are', 'old', 'and', 'that', 'for', 'flowers']",5,Frost,0.1,0.2
+58,60,10,stress,stress,unstress,stress,unstress,stress,stress,stress,unstress,stress,missing,missing,"['Midsummer', 'is', 'to', 'spring', 'as', 'one', 'to', 'ten']",5,Frost,0.0,0.0
+59,61,10,stress,stress,unstress,stress,unstress,missing,missing,missing,unstress,stress,missing,missing,"['He', 'says', 'the', 'early', 'petalfall', 'is', 'past']",5,Frost,-0.075,0.275
+60,62,12,stress,stress,unstress,stress,unstress,stress,stress,stress,unstress,stress,stress,unstress,"['When', 'pear', 'and', 'cherry', 'bloom', 'went', 'down', 'in', 'the', 'showers']",5,Frost,-0.155555555556,0.288888888889
+61,63,10,stress,stress,unstress,stress,unstress,stress,unstress,missing,missing,missing,missing,missing,"['On', 'sunny', 'days', 'a', 'moment', 'overcast;']",5,Frost,0.0,0.0
+62,64,10,unstress,stress,unstress,stress,unstress,stress,stress,stress,unstress,stress,missing,missing,"['And', 'comes', 'that', 'other', 'fall', 'we', 'name', 'the', 'fall']",5,Frost,-0.125,0.375
+63,65,10,stress,stress,unstress,stress,stress,unstress,stress,unstress,stress,missing,missing,missing,"['He', 'says', 'the', 'highway', 'dust', 'is', 'over', 'all']",5,Frost,0.0,0.0
+64,66,10,unstress,stress,stress,stress,unstress,stress,stress,stress,unstress,stress,missing,missing,"['The', 'bird', 'would', 'cease', 'and', 'be', 'as', 'other', 'birds']",5,Frost,-0.125,0.375
+65,67,10,stress,stress,stress,stress,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['But', 'that', 'he', 'knows', 'in', 'singing', 'not', 'to', 'sing']",5,Frost,0.0,0.0
+66,68,10,unstress,stress,unstress,stress,stress,stress,unstress,stress,stress,stress,missing,missing,"['The', 'question', 'that', 'he', 'frames', 'in', 'all', 'but', 'words']",5,Frost,0.0,0.0
+67,69,10,unstress,stress,unstress,stress,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['Is', 'what', 'to', 'make', 'of', 'a', 'diminished', 'thing']",5,Frost,0.0,0.0
+68,70,10,unstress,stress,unstress,stress,unstress,stress,missing,missing,missing,missing,missing,missing,"['The', 'battle', 'rent', 'a', 'cobweb', 'diamondstrung']",6,Frost,0.0,0.0
+69,71,11,unstress,stress,unstress,stress,unstress,unstress,stress,stress,stress,stress,stress,missing,"['And', 'cut', 'a', 'flower', 'beside', 'a', 'ground', 'bird', 'nest']",6,Frost,0.0,0.0
+70,72,10,unstress,stress,unstress,stress,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['Before', 'it', 'strained', 'a', 'single', 'human', 'breast']",6,Frost,-0.0357142857143,0.157142857143
+71,73,11,unstress,stress,unstress,stress,unstress,stress,stress,unstress,unstress,stress,stress,missing,"['The', 'stricken', 'flower', 'bent', 'double', 'and', 'so', 'hung']",6,Frost,0.0,0.0
+72,74,10,unstress,stress,unstress,stress,unstress,stress,unstress,unstress,unstress,stress,missing,missing,"['And', 'still', 'the', 'bird', 'revisited', 'her', 'young']",6,Frost,0.1,0.4
+73,76,11,unstress,stress,unstress,stress,unstress,stress,unstress,stress,unstress,stress,stress,missing,"['A', 'moment', 'sought', 'in', 'air', 'his', 'flower', 'of', 'rest']",6,Frost,0.0,0.0
+74,77,11,stress,stress,unstress,stress,unstress,stress,unstress,stress,unstress,unstress,stress,missing,"['Then', 'lightly', 'stooped', 'to', 'it', 'and', 'fluttering', 'clung']",6,Frost,0.4,0.7
+75,78,10,stress,stress,stress,stress,unstress,stress,unstress,stress,stress,stress,missing,missing,"['On', 'the', 'bare', 'upland', 'pasture', 'there', 'had', 'spread']",6,Frost,0.05,0.1
+76,79,10,missing,missing,missing,missing,missing,stress,unstress,stress,unstress,stress,missing,missing,"['Oernight', 'twixt', 'mullein', 'stalks', 'a', 'wheel', 'of', 'thread']",6,Frost,0.0,0.0
+77,80,9,unstress,stress,unstress,stress,stress,stress,stress,unstress,stress,missing,missing,missing,"['And', 'straining', 'cables', 'wet', 'with', 'silver', 'dew']",6,Frost,-0.1,0.4
+78,81,10,unstress,stress,unstress,stress,unstress,stress,unstress,stress,unstress,stress,missing,missing,"['A', 'sudden', 'passing', 'bullet', 'shook', 'it', 'dry']",6,Frost,-0.0333333333333,0.55
+79,82,11,unstress,missing,missing,missing,stress,unstress,stress,stress,stress,stress,stress,missing,"['The', 'indwelling', 'spider', 'ran', 'to', 'greet', 'the', 'fly']",6,Frost,0.8,0.9
+80,83,10,stress,stress,unstress,stress,unstress,missing,missing,missing,unstress,stress,missing,missing,"['But', 'finding', 'nothing', 'sullenly', 'withdrew']",6,Frost,0.0,0.0
